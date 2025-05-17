@@ -100,4 +100,4 @@ Distribuído sob a licença [MIT](LICENSE).
 
 ---
 
-> Autor: [SeuNome ou GitHub](https://github.com/seunome)
+> Autor: [Aleqssandro](https://github.com/Aleqssandro)
