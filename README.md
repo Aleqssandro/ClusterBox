@@ -10,6 +10,7 @@ O objetivo é criar uma alternativa de baixo custo para experimentação, ensino
 
 - [🛠️ Estrutura do Projeto](#️-estrutura-do-projeto)
 - [⚙️ Setup do Cluster](#️-setup-do-cluster)
+  - [📌 Dependências comuns](#-dependencias-comuns)
   - [📌 Headnode](#-headnode)
   - [📡 Compute Nodes](#-compute-nodes)
   - [📂 NFS Server](#-nfs-server)
@@ -31,6 +32,12 @@ O cluster é composto por:
 ---
 
 ## ⚙️ Setup do Cluster
+
+### 📌 Dependências comuns
+
+Instalação das bibliotecs necessárias e compilação do OpenPBS
+
+👉 [`setup/0-dependencias-comuns.md`](setup/0-dependencias-comuns.md)
 
 ### 📌 Headnode
 
